@@ -1,0 +1,1166 @@
+{
+    "status": "success",
+    "query": "next meeting",
+    "data": {
+        "events": [
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2024-12-19T16:00:00Z",
+                "end_time": "2024-12-19T17:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-19 16:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-09T15:00:00Z",
+                "end_time": "2025-01-09T16:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-09 15:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-22T09:00:00Z",
+                "end_time": "2025-01-22T10:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-22 09:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-02-10T12:00:00Z",
+                "end_time": "2025-02-10T13:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-10 12:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-12T17:00:00Z",
+                "end_time": "2025-02-12T18:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-12 17:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-02-06T13:00:00Z",
+                "end_time": "2025-02-06T14:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-06 13:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-27T15:00:00Z",
+                "end_time": "2025-01-27T16:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-27 15:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-01-14T16:00:00Z",
+                "end_time": "2025-01-14T17:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-14 16:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2024-12-18T11:00:00Z",
+                "end_time": "2024-12-18T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-18 11:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-30T15:00:00Z",
+                "end_time": "2025-01-30T16:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-30 15:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-27T14:00:00Z",
+                "end_time": "2025-01-27T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-27 14:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-28T11:00:00Z",
+                "end_time": "2025-01-28T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-28 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-27T12:00:00Z",
+                "end_time": "2025-01-27T13:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-27 12:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-30T17:00:00Z",
+                "end_time": "2024-12-30T18:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-30 17:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-20T14:00:00Z",
+                "end_time": "2025-01-20T15:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-20 14:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-27T16:00:00Z",
+                "end_time": "2025-01-27T17:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-27 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2024-12-19T14:00:00Z",
+                "end_time": "2024-12-19T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-19 14:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-20T16:00:00Z",
+                "end_time": "2024-12-20T17:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-20 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-21T15:00:00Z",
+                "end_time": "2025-01-21T16:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-21 15:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-04T13:00:00Z",
+                "end_time": "2025-02-04T14:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-04 13:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-24T09:00:00Z",
+                "end_time": "2025-01-24T10:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-24 09:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-03T09:00:00Z",
+                "end_time": "2025-01-03T10:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-03 09:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-16T15:00:00Z",
+                "end_time": "2025-01-16T16:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-16 15:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-15T11:00:00Z",
+                "end_time": "2025-01-15T12:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-15 11:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2024-12-31T16:00:00Z",
+                "end_time": "2024-12-31T17:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-31 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-21T17:00:00Z",
+                "end_time": "2025-01-21T18:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-21 17:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-19T11:00:00Z",
+                "end_time": "2024-12-19T12:00:00Z",
+                "location": "Zoom",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-19 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2024-12-23T12:00:00Z",
+                "end_time": "2024-12-23T13:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-23 12:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-06T09:00:00Z",
+                "end_time": "2025-01-06T10:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-06 09:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-07T10:00:00Z",
+                "end_time": "2025-01-07T11:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-07 10:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-02T10:00:00Z",
+                "end_time": "2025-01-02T11:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-02 10:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-02-10T11:00:00Z",
+                "end_time": "2025-02-10T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-10 11:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-30T17:00:00Z",
+                "end_time": "2025-01-30T18:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-30 17:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-02-12T12:00:00Z",
+                "end_time": "2025-02-12T13:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-12 12:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-02-10T09:00:00Z",
+                "end_time": "2025-02-10T10:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-10 09:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-26T12:00:00Z",
+                "end_time": "2024-12-26T13:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-26 12:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-20T15:00:00Z",
+                "end_time": "2025-01-20T16:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-20 15:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-09T14:00:00Z",
+                "end_time": "2025-01-09T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-09 14:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-04T11:00:00Z",
+                "end_time": "2025-02-04T12:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-04 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-13T11:00:00Z",
+                "end_time": "2025-01-13T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-13 11:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-22T11:00:00Z",
+                "end_time": "2025-01-22T12:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-22 11:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-02-11T17:00:00Z",
+                "end_time": "2025-02-11T18:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-11 17:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-30T14:00:00Z",
+                "end_time": "2024-12-30T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-30 14:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-24T17:00:00Z",
+                "end_time": "2024-12-24T18:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-24 17:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-23T11:00:00Z",
+                "end_time": "2024-12-23T12:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-23 11:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2024-12-20T17:00:00Z",
+                "end_time": "2024-12-20T18:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-20 17:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-17T15:00:00Z",
+                "end_time": "2025-01-17T16:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-17 15:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2024-12-27T11:00:00Z",
+                "end_time": "2024-12-27T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-27 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2024-12-23T14:00:00Z",
+                "end_time": "2024-12-23T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-23 14:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-02-13T16:00:00Z",
+                "end_time": "2025-02-13T17:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-13 16:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-15T16:00:00Z",
+                "end_time": "2025-01-15T17:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-15 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-03T16:00:00Z",
+                "end_time": "2025-01-03T17:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-03 16:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-05T11:00:00Z",
+                "end_time": "2025-02-05T12:00:00Z",
+                "location": "Teams",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-05 11:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2024-12-26T10:00:00Z",
+                "end_time": "2024-12-26T11:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-26 10:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-11T14:00:00Z",
+                "end_time": "2025-02-11T15:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-11 14:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-03T12:00:00Z",
+                "end_time": "2025-01-03T13:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-03 12:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-02-13T14:00:00Z",
+                "end_time": "2025-02-13T15:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-13 14:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-06T12:00:00Z",
+                "end_time": "2025-01-06T13:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-06 12:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-02-12T11:00:00Z",
+                "end_time": "2025-02-12T12:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-12 11:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-20T12:00:00Z",
+                "end_time": "2024-12-20T13:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-20 12:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-02T13:00:00Z",
+                "end_time": "2025-01-02T14:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-02 13:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-02-11T15:00:00Z",
+                "end_time": "2025-02-11T16:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-11 15:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-22T12:00:00Z",
+                "end_time": "2025-01-22T13:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-22 12:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-09T13:00:00Z",
+                "end_time": "2025-01-09T14:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-09 13:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-31T11:00:00Z",
+                "end_time": "2025-01-31T12:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-31 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-10T09:00:00Z",
+                "end_time": "2025-01-10T10:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-10 09:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-15T17:00:00Z",
+                "end_time": "2025-01-15T18:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-15 17:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-02T12:00:00Z",
+                "end_time": "2025-01-02T13:00:00Z",
+                "location": "Teams",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-02 12:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-13T09:00:00Z",
+                "end_time": "2025-01-13T10:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-13 09:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-06T16:00:00Z",
+                "end_time": "2025-01-06T17:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-06 16:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2024-12-27T13:00:00Z",
+                "end_time": "2024-12-27T14:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-27 13:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2024-12-26T14:00:00Z",
+                "end_time": "2024-12-26T15:00:00Z",
+                "location": "Zoom",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-26 14:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-01-16T12:00:00Z",
+                "end_time": "2025-01-16T13:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-16 12:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-29T11:00:00Z",
+                "end_time": "2025-01-29T12:00:00Z",
+                "location": "Zoom",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-29 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-29T09:00:00Z",
+                "end_time": "2025-01-29T10:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-29 09:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-01-24T12:00:00Z",
+                "end_time": "2025-01-24T13:00:00Z",
+                "location": "Zoom",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-24 12:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-08T11:00:00Z",
+                "end_time": "2025-01-08T12:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-08 11:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-27T09:00:00Z",
+                "end_time": "2024-12-27T10:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-27 09:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-14T12:00:00Z",
+                "end_time": "2025-01-14T13:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-14 12:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-01-15T14:00:00Z",
+                "end_time": "2025-01-15T15:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-15 14:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-02-14T10:00:00Z",
+                "end_time": "2025-02-14T11:00:00Z",
+                "location": "Zoom",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-14 10:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-10T15:00:00Z",
+                "end_time": "2025-01-10T16:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-10 15:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-01-29T12:00:00Z",
+                "end_time": "2025-01-29T13:00:00Z",
+                "location": "Teams",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-29 12:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2025-02-12T10:00:00Z",
+                "end_time": "2025-02-12T11:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-12 10:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-25T16:00:00Z",
+                "end_time": "2024-12-25T17:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-25 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-01-10T10:00:00Z",
+                "end_time": "2025-01-10T11:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-10 10:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-01-17T14:00:00Z",
+                "end_time": "2025-01-17T15:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-17 14:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-29T17:00:00Z",
+                "end_time": "2025-01-29T18:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-29 17:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2024-12-18T10:00:00Z",
+                "end_time": "2024-12-18T11:00:00Z",
+                "location": "Zoom",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-18 10:00"
+            },
+            {
+                "title": "Reuni\u00f3n de equipo",
+                "start_time": "2024-12-20T09:00:00Z",
+                "end_time": "2024-12-20T10:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-20 09:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-14T11:00:00Z",
+                "end_time": "2025-01-14T12:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-14 11:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-07T14:00:00Z",
+                "end_time": "2025-01-07T15:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-07 14:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-02-03T09:00:00Z",
+                "end_time": "2025-02-03T10:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-03 09:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-14T14:00:00Z",
+                "end_time": "2025-01-14T15:00:00Z",
+                "location": "Sala de conferencias B",
+                "organizer": "ana.martinez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-14 14:00"
+            },
+            {
+                "title": "Planificaci\u00f3n de proyecto",
+                "start_time": "2025-01-13T16:00:00Z",
+                "end_time": "2025-01-13T17:00:00Z",
+                "location": "Teams",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-13 16:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2024-12-18T09:00:00Z",
+                "end_time": "2024-12-18T10:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-18 09:00"
+            },
+            {
+                "title": "Llamada con cliente",
+                "start_time": "2025-02-07T12:00:00Z",
+                "end_time": "2025-02-07T13:00:00Z",
+                "location": "Sala de conferencias A",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-07 12:00"
+            },
+            {
+                "title": "Revisi\u00f3n de contratos",
+                "start_time": "2025-01-23T09:00:00Z",
+                "end_time": "2025-01-23T10:00:00Z",
+                "location": "Teams",
+                "organizer": "juan.perez@empresa.com",
+                "attendees": [
+                    "maria.gomez@empresa.com",
+                    "carlos.lopez@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-01-23 09:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2025-02-03T15:00:00Z",
+                "end_time": "2025-02-03T16:00:00Z",
+                "location": "Zoom",
+                "organizer": "maria.gomez@empresa.com",
+                "attendees": [
+                    "soporte@empresa.com",
+                    "ventas@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2025-02-03 15:00"
+            },
+            {
+                "title": "Presentaci\u00f3n de resultados",
+                "start_time": "2024-12-31T10:00:00Z",
+                "end_time": "2024-12-31T11:00:00Z",
+                "location": "Teams",
+                "organizer": "carlos.lopez@empresa.com",
+                "attendees": [
+                    "cliente@empresa.com"
+                ],
+                "description": "Descripci\u00f3n del evento 2024-12-31 10:00"
+            }
+        ]
+    }
+}

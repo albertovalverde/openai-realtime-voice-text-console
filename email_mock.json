@@ -1,0 +1,358 @@
+{
+    "status": "success",
+    "query": "inbox messages",
+    "data": {
+        "emails": [
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre. ",
+                "timestamp": "2024-12-18T08:00:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T09:39:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Revisi\u00f3n de contratos",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T10:52:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T12:22:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T14:00:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T14:15:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T14:45:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T16:37:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T17:42:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T18:47:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Revisi\u00f3n de contratos",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T20:20:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T20:47:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana. ",
+                "timestamp": "2024-12-18T22:11:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T00:04:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T00:36:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T01:48:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana. ",
+                "timestamp": "2024-12-18T02:12:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana. ",
+                "timestamp": "2024-12-18T04:12:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T05:18:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T05:37:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T06:34:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T08:24:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T09:25:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Revisi\u00f3n de contratos",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T09:43:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T10:49:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T12:35:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T13:10:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Revisi\u00f3n de contratos",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T13:53:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Revisi\u00f3n de contratos",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T15:42:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T16:45:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T18:19:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T19:24:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T19:54:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T21:32:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T22:48:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas. ",
+                "timestamp": "2024-12-18T00:37:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T01:08:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana. ",
+                "timestamp": "2024-12-18T02:27:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T03:02:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T04:05:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T04:33:00Z"
+            },
+            {
+                "sender": "carlos.lopez@empresa.com",
+                "recipient": "soporte@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre. ",
+                "timestamp": "2024-12-18T05:28:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T07:19:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T08:59:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T09:32:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto. ",
+                "timestamp": "2024-12-18T10:40:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Consulta t\u00e9cnica",
+                "body": "Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Adjunto el informe detallado con los resultados obtenidos durante el \u00faltimo trimestre.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana. ",
+                "timestamp": "2024-12-18T11:44:00Z"
+            },
+            {
+                "sender": "juan.perez@empresa.com",
+                "recipient": "proyectos@empresa.com",
+                "subject": "Solicitud de reuni\u00f3n",
+                "body": "Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite. ",
+                "timestamp": "2024-12-18T13:18:00Z"
+            },
+            {
+                "sender": "ana.martinez@empresa.com",
+                "recipient": "recursos.humanos@empresa.com",
+                "subject": "Actualizaci\u00f3n del proyecto",
+                "body": "Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Quisiera coordinar una llamada para discutir los pr\u00f3ximos pasos y resolver dudas pendientes. ",
+                "timestamp": "2024-12-18T14:21:00Z"
+            },
+            {
+                "sender": "maria.gomez@empresa.com",
+                "recipient": "ventas@empresa.com",
+                "subject": "Informe mensual",
+                "body": "Este es un recordatorio para la reuni\u00f3n programada para la pr\u00f3xima semana.  Apreciamos tu atenci\u00f3n y esperamos tus comentarios sobre las propuestas enviadas.  Por favor, revisa los puntos mencionados y comparte tus comentarios antes de la fecha l\u00edmite.  Si necesitas m\u00e1s detalles o aclaraciones, no dudes en ponerte en contacto.  Gracias por tu colaboraci\u00f3n continua en este proyecto tan importante para el equipo. ",
+                "timestamp": "2024-12-18T15:18:00Z"
+            }
+        ]
+    }
+}
