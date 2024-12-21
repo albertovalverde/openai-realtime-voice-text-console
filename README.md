@@ -1,6 +1,6 @@
 # New Feature Description
 
-A **text input box** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
+A **text input box chat interface ** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
 
 ## Details
 - **Interaction modes**: Users can switch between speaking or typing to converse with the model.  
