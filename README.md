@@ -1,15 +1,3 @@
-# New Feature Description
-
-A **chat input textbox** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
-
-## Details
-- **Interaction modes**: Users can switch between speaking or typing to converse with the model.  
-- **Text input box**: Includes an intuitive input area where users can type and send messages seamlessly.  
-- **Compatibility**: Both modes work smoothly and are fully integrated, providing a consistent user experience.  
-- **Potential applications**: Ideal for users who cannot speak at certain times or prefer typing, increasing the system's usability.
-
-
-
 # OpenAI Realtime Console
 
 The OpenAI Realtime Console is intended as an inspector and interactive API reference
@@ -20,6 +8,16 @@ that acts as a **Reference Client** (for browser and Node.js) and
 management in the browser.
 
 <img src="./readme/realtime-console-text-demo.png" width="800" />
+
+# New Feature Description
+
+A **chat input textbox** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
+
+## Details
+- **Interaction modes**: Users can switch between speaking or typing to converse with the model.  
+- **Text input box**: Includes an intuitive input area where users can type and send messages seamlessly.  
+- **Compatibility**: Both modes work smoothly and are fully integrated, providing a consistent user experience.  
+- **Potential applications**: Ideal for users who cannot speak at certain times or prefer typing, increasing the system's usability.
 
 # Starting the console
 
