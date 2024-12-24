@@ -9,7 +9,7 @@ management in the browser.
 
 <img src="./readme/realtime-console-text-demo.png" width="800" />
 
-# New Feature
+# New Feature Added
 
 A **chat input textbox** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
 
