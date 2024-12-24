@@ -11,7 +11,7 @@ management in the browser.
 
 # New Feature Added
 
-A **chat input textbox** has been added, enabling users to interact with the OpenAI model by typing messages, alongside the existing voice interaction functionality. This new feature expands communication options, making the application more accessible and versatile for various use cases.
+A **text chat interface** has been introduced, enabling users to interact with the OpenAI model via typed messages alongside the existing voice interaction feature. This enhancement expands communication options, enhancing accessibility and versatility for a wide range of use cases.
 
 ## Details
 - **Interaction modes**: Users can switch between speaking or typing to converse with the model.  
